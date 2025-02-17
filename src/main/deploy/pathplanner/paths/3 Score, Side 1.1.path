@@ -1,0 +1,68 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.8222231983311089,
+        "y": 6.501598166103601
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.768658374409481,
+        "y": 6.203265338861505
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.2830253179303357,
+        "y": 6.316426066436093
+      },
+      "prevControl": {
+        "x": 1.915905804678181,
+        "y": 6.3093660757966274
+      },
+      "nextControl": {
+        "x": 2.817966939192024,
+        "y": 6.326713405306511
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.9208403278961947,
+        "y": 6.851367687697781
+      },
+      "prevControl": {
+        "x": 2.9208403278961947,
+        "y": 6.851367687697781
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.8,
+    "maxAcceleration": 4.8,
+    "maxAngularVelocity": 1200.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -120.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "3 Score, Side 1",
+  "previewStartingState": {
+    "rotation": -122.0053832080835,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

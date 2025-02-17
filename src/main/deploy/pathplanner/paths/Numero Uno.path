@@ -1,0 +1,68 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.7810738428494404,
+        "y": 6.6147588936781885
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.7810738428494388,
+        "y": 6.6147588936781885
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.2624506401895013,
+        "y": 6.6147588936781885
+      },
+      "prevControl": {
+        "x": 1.2624506401895013,
+        "y": 6.6147588936781885
+      },
+      "nextControl": {
+        "x": 3.262450640189503,
+        "y": 6.6147588936781885
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 3.3631958993241295,
+        "y": 7.129125837199044
+      },
+      "prevControl": {
+        "x": 3.394057915935381,
+        "y": 7.118838498328626
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 4.8,
+    "maxAcceleration": 4.8,
+    "maxAngularVelocity": 1200.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -120.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "A SIDE AUTO THAT WORKS HOPEFULLY",
+  "previewStartingState": {
+    "rotation": -120.0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
